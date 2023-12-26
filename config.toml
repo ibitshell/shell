@@ -1,7 +1,7 @@
-baseURL = 'https://lillianwho.com/'
+baseURL = 'https://shellquant.com/'
 languageCode = 'zh-CN'
 timeZone = 'Asia/Shanghai'
-title = '夜猫日记'
+title = '贝壳量化'
 
 # 主题
 theme  =  "hello-friend"
