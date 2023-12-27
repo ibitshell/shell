@@ -1,7 +1,7 @@
-baseURL = 'https://shellquant.com/'
+baseURL = 'https://ibitshell.com/'
 languageCode = 'zh-CN'
 timeZone = 'Asia/Shanghai'
-title = '贝壳量化'
+title = '比特贝壳'
 
 # 主题
 theme  =  "hello-friend"
